@@ -1,1 +1,1 @@
-# Notes-on-JavaScript-
+# JavaScript Notes 
